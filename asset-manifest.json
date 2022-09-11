@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reon_Hero_Page/static/css/main.073c9b0a.css",
+    "main.js": "/Reon_Hero_Page/static/js/main.d376bd49.js",
+    "static/js/787.c593b322.chunk.js": "/Reon_Hero_Page/static/js/787.c593b322.chunk.js",
+    "index.html": "/Reon_Hero_Page/index.html",
+    "main.073c9b0a.css.map": "/Reon_Hero_Page/static/css/main.073c9b0a.css.map",
+    "main.d376bd49.js.map": "/Reon_Hero_Page/static/js/main.d376bd49.js.map",
+    "787.c593b322.chunk.js.map": "/Reon_Hero_Page/static/js/787.c593b322.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d376bd49.js"
+  ]
+}
