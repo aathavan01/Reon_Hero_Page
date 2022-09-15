@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #F77D0A;
+    --primary: #ffbc03fd;
     --secondary: #2B2E4A;
     --light: #F4F5F8;
     --dark: #1C1E32;
@@ -327,12 +327,21 @@ h6,
     background-color: #ffbc03fd;
 }
 
+.lightDark{
+    background-color: #161B22;
+}
+
+
 .yellowColor{
     color:#ffbc03fd;
 }
 
 .blueColor{
     color:#099BDF
+}
+
+.fontFamily{
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .font{
@@ -354,11 +363,12 @@ h6,
       font-weight: 900; }
     .step > span {
       font-size: 100px;
-      color: #0779e4;
+      color:#099BDF;
       font-weight: 900;
       top: 0;
       left: -30px;
       position: absolute; }
+      
     .step .step-inner {
       position: relative;
       padding: 40px;
@@ -387,17 +397,17 @@ h6,
               position: absolute;
               z-index: -1;
               top: 25px;
-              background: #0779e4; }
+              background:#099BDF; }
             .how-it-works .step:last-child:after {
               display: none; }
             .how-it-works .step .number {
               z-index: 1;
               width: 50px;
               height: 50px;
-              border: 4px solid #0779e4;
+              border: 4px solid#099BDF;
               background: #0d1117;
               border-radius: 50%;
-              color: #0779e4;
+              color:#099BDF;
               display: block;
               position: relative;
               margin: 0 auto 10px auto; }
@@ -409,6 +419,6 @@ h6,
                 -ms-transform: translate(-50%, -50%);
                 transform: translate(-50%, -50%);
                 font-size: 1.3rem;
-                color: #0779e4; }
+                color:#099BDF; }
             .how-it-works .step .caption {
               display: block; }
